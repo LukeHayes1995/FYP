@@ -2,6 +2,8 @@
 
 This is the repository for my Final Year Project. This included an application that could take data from 2 microcontroller via Bluetooth. Each microcontroller was connected to numerous sensors. Together these sensors made up a system to monitor muscular activity in the feet of the subject the system was attached to. This system was then utilised to carry out an experiment on the kicking techniques of different individuals. The code here represents the Android application created that would receive the data from the system in the form of packs. The application then allowed for the user to start/stop recording data. Once the recording had been started the data being received from the sensors can be seen in tabular format or it can be viewed as live graph that updates continuously. 
 
+Here are some screenshots from the Android application:
+
 ![image](https://user-images.githubusercontent.com/32521494/118376703-8d5e1180-b5c1-11eb-8ac8-45f39b1cca44.png)
 
 ![image](https://user-images.githubusercontent.com/32521494/118376693-7fa88c00-b5c1-11eb-987a-2f630f8c869c.png)
